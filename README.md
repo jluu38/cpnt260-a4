@@ -50,3 +50,5 @@ An image gallery to display upcoming/current showings is most effective as it is
 ffffff-a19cdc-735de6-434aa6-2d3057
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+https://codepen.io/woolandcotton/pen/mBmLwq
